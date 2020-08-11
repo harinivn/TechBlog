@@ -1,5 +1,6 @@
 # TechBlog
 Creating a blog and converting it to app by using the url of blog.
+
 Step 1: Start Android Studio
 Step 2: Create a blog of own account.
 Step 3: Write a post of any are of interest like technology, education etc.
